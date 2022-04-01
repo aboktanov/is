@@ -14,7 +14,7 @@ IS
 
 ## Результат
 
-<p align="center"><a href="https://lss-info.online" target="_blank">Работающий пример</a></p>
+<p align="center"><a href="http://lss-info.online" target="_blank">Работающий пример</a></p>
 
 ## Установка
 
