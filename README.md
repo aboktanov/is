@@ -21,5 +21,6 @@ IS
 1) git clone https://github.com/aboktanov/is.git
 2) composer update
 3) Задать параметры доступа к базе данных в .env
+4) php artisan migrate
 
 
