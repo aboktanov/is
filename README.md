@@ -12,15 +12,12 @@ IS
 - на странице создания заявки в форме выводим следующие поля: 
 имя, номер телефона, компания, название заявки, сообщение, поле для прикрепления файла, кнопка "отправить".
 
-## Результат
-
-<p align="center"><a href="http://lss-info.online" target="_blank">Работающий пример</a></p>
-
 ## Установка
 
 1) git clone https://github.com/aboktanov/is.git
 2) composer update
 3) Задать параметры доступа к базе данных в .env
-4) php artisan migrate
+4) Задать параметры для отправки email в .env
+5) php artisan migrate
 
 
